@@ -4,7 +4,7 @@ Simple digital drumkit that allows the user to play drum sounds when pressing do
 
 
 ## Deployement
-![alt_text](https://ravi1998-source.github.io/DrumKit/ "Title")
+[Project](https://ravi1998-source.github.io/DrumKit/)
 
 ![alt text](https://github.com/ravi1998-source/DrumKit/blob/main/images/drumm.png)
 
